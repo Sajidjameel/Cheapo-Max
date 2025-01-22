@@ -72,12 +72,13 @@ As an **experienced BrilliantDirectory developer**, I focus on delivering soluti
 
 ---
 
-### Interested in similar projects or need help with a BrilliantDirectory development? Let’s work together! 
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/Metavizpro)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact%20Me-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/metavizpro/)
 
 ---
 
-**Hire me** for your next BrilliantDirectory project to create a feature-rich, business-friendly, and innovative directory platform.
-
+**Hire me** for your next **BigCommerce** project, and let’s build a feature-rich, high-performing eCommerce platform together!
